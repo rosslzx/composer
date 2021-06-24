@@ -2,12 +2,7 @@
     "name": "rosslzx/composer",
     "description": "test",
     "type": "project",
-    "license": "Apache-2.0",
-    "autoload": {
-        "psr-4": {
-            "Rosslzx\\Composer\\": "src/"
-        }
-    },
+    "license": "MIT",
     "authors": [
         {
             "name": "lzx",
