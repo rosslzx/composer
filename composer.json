@@ -1,0 +1,19 @@
+{
+    "name": "rosslzx/composer",
+    "description": "test",
+    "type": "project",
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "Rosslzx\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lzx",
+            "email": "1034913993@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
